@@ -1,0 +1,3 @@
+#!/bin/bash
+export CFILE=Hello.c
+gcc $CFILE -o c
