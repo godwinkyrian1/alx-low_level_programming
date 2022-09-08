@@ -5,6 +5,8 @@
 int main(void)
 {
 	char *s = "\"Programming is like building a multilingual puzzle";
+
+	/* This fuction will printout an output */
 	puts(s);
 	
 	return (0);
