@@ -1,13 +1,18 @@
 #include <stdio.h>
 
-/* This script is for the puts function */
+/**
+ * main - Entry point
+ *   
+ * Description: 'the program's description'
+ * 
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
 	char *s = "\"Programming is like building a multilingual puzzle";
 
-	/* This fuction will printout an output */
-	puts(s);
+	  puts(s);
 	
 	return (0);
 }		
