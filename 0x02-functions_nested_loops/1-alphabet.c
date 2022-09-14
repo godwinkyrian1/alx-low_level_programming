@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main -entry
- * Description: 'print_alphabets'
- * Return:always 0 (success)
+ * print_alphabet - entry
+ * return: Always 0 (success)
  */
 void print_alphabet(void)
 {
