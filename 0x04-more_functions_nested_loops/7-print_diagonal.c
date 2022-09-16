@@ -15,6 +15,7 @@ if (n > 0)
 	for (j = 0; j < i; j++)
 	_putchar(' ');
 	_putchar(92);
+_purchar('\n')
 }
 }
 else
