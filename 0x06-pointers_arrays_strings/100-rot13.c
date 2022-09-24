@@ -2,7 +2,7 @@
 #include <stdio.h>
 
  /**
-  * rot13 - encodes a string into rot13
+  * rot13- encode a string.
   * @s: string to encode
   * Return: address of s
   */
