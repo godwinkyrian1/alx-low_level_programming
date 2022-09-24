@@ -1,4 +1,4 @@
-#includeu "main.h"
+#include "main.h"
 
 /**
  * _strcmp - Compares pointers to two strings.
